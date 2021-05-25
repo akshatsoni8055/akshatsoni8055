@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshatsoni8055
 - 👀 I’m interested in 
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on Javascript and ExpressJS Projects
 - 📫 How to reach me akshatsoni8055@gmail.com
 
 <!---
